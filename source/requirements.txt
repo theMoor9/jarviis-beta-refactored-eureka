@@ -1,0 +1,7 @@
+numpy
+ccxt
+progress
+pandas
+prompt_toolkit
+cryptography
+pynput
