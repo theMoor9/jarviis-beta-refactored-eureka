@@ -45,7 +45,7 @@ E' presente in aggiunta una logica (inattiva) che inverte le aperture delle posi
 Se si vuole applicare l'assistente su altri symbols occorre creare un account dedito al singolo asset.
 
 # Security:
-E' presente la crittazione delle variabili apikey e di sessione.
+E' presente la crittazione delle variabili apikey e di sessione con salt.
 
 # Architecture:
 Microservices API system
