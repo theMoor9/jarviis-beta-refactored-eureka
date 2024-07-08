@@ -4,7 +4,7 @@
                                 _| | |  _  ||  _  /  \   /   |  |  |  |  _\   \
                                |___| |_| |_||_| \_\   \_/   |____||____|\_____/ Δ
 
-                               <Just a rather visionary ideal investing system>
+                                <Just a rather visionary ideal investing system>
 
 # Tools:
 - **Jarviis**:
