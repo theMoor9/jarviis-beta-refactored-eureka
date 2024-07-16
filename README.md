@@ -206,3 +206,9 @@ if __name__ == "__main__":
     main(symbols_config, api_config)
 
 ```
+
+# Author
+Kenneth Boldrini
+
+# License
+This repository is licensed. See the [LICENSE](./LICENSE) file for more details.
